@@ -1,6 +1,7 @@
 # Tree2Line
-将一个json树转换成行记录\n
-测试类：com.lcs.solution.service.tree2line.Tree2LineTest
+将一个json树转换成行记录
+
+代码入口：com.lcs.solution.service.tree2line.Tree2LineTest
 
 设计思路如下：
 1、根据json树的深度，定义取值步骤；
